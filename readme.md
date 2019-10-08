@@ -1,23 +1,10 @@
 # codecounter CLI
 
-A CLI for codecounter.
+A CLI that I built on Twitter, live. Check it out!
 
-## Customizing your CLI
+https://twitter.com/jamonholmgren/status/1181372148436234240
 
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
-
-## Publishing to NPM
-
-To package your CLI up for NPM, do this:
-
-```shell
-$ npm login
-$ npm whoami
-$ npm lint
-$ npm test
-(if typescript, run `npm run build` here)
-$ npm publish
-```
+![screenshot](https://user-images.githubusercontent.com/1479215/66365446-cf34c980-e941-11e9-889b-013fc80c136d.png)
 
 # License
 
